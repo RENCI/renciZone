@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Protocol</key>
+        <string>irods</string>
+        <key>Vendor</key>
+        <string>renciZone</string>
+        <key>Description</key>
+        <string>renciZone</string>
+        <key>Hostname Configurable</key>
+        <false/>
+        <key>Port Configurable</key>
+        <false/>
+        <key>Default Hostname</key>
+        <string>icat.edc.renci.org</string>
+        <key>Region</key>
+        <string>renciZone:rootResc</string>
+        <key>Default Port</key>
+        <string>1247</string>
+        <key>Username Placeholder</key>
+        <string>username</string>
+        <key>Password Placeholder</key>
+        <string>password</string>
+        <key>Authorization</key>
+        <string>PAM</string>
+    </dict>
+</plist>
