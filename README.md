@@ -111,7 +111,7 @@ You can connect to `renciZone` through WebDAV:
 
 ### MacOS Finder
 
-"Go->Connect to Server", or "Command-K", or "⌘-V"
+"Go->Connect to Server", or "Command-K", or "⌘-K"
 
 <img src="images/webdav-macos-connect_to_server.png">
 
