@@ -31,7 +31,7 @@ Get the pre-compiled Linux iCommands from https://packages.irods.org (via either
 
 ```
 {
-    "irods_host": "icat.edc.renci.org",
+    "irods_host": "icat2.edc.renci.org",
     "irods_port": 1247,
     "irods_user_name": "USERNAME",
     "irods_zone_name": "renciZone",
@@ -86,7 +86,7 @@ Cyberduck 5.4+ knows how to connect to iRODS via PAM.
         <key>Port Configurable</key>
         <false/>
         <key>Default Hostname</key>
-        <string>icat.edc.renci.org</string>
+        <string>icat2.edc.renci.org</string>
         <key>Region</key>
         <string>renciZone:rootResc</string>
         <key>Default Port</key>
